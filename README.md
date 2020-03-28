@@ -1,4 +1,6 @@
-# Backend do Sistema Be Hero - Semana OmniStack | Rocketseat
+# Sistema Be Hero da Semana OmniStack 11 da Rocketseat
+
+# Backend - Node Js
 ## Pré-requisitos
 
  - Node.js >= v12.16.1
@@ -22,3 +24,5 @@
 - `npx knex migrate:latest` : Para executar a migração do banco de dados
 - `npx knex migrate:rollback` : Para desfazer a última migração do banco de dados
 - `npx knex migrate:status` : Para listar todas as migrations já realizadas
+
+# Frontend - React Js
